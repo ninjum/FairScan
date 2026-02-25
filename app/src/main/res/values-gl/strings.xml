@@ -1,7 +1,6 @@
 <resources>
     <string name="about">Sobre</string>
     <string name="add_page">Engadir páxina</string>
-    <string name="app_name" translatable="false">FairScan</string>
     <string name="app_tagline">Unha aplicación sinxela e respectuosa para escanear os teus documentos.</string>
     <string name="back">Atrás</string>
     <string name="camera_permission_denied">Permiso da cámara denegado</string>
@@ -23,9 +22,6 @@
     <string name="error_context_folder">Cartafol de exportación: %1$s</string>
     <string name="error_context_provider">Provedor: %1$s</string>
     <string name="error_export_dir_permission_lost">O cartafol de exportación seleccionado xa non é accesible. Escolle outro cartafol.</string>
-    <!-- Rare error messages should not be translated -->
-    <string name="error_file_picker_launch" translatable="false">Failed to launch system file picker on this device</string>
-    <string name="error_file_picker_result" translatable="false">Failed to set export directory</string>
     <string name="error_no_app">Non se atopou ningunha aplicación para abrir este ficheiro</string>
     <string name="error_no_document">Non se detectou ningún documento</string>
     <string name="error_save">Produciuse un erro ao gardar o ficheiro</string>
