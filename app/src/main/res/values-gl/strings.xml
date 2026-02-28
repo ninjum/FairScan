@@ -51,7 +51,7 @@
     <string name="resume">Continuar</string>
     <string name="save">Gardar</string>
     <string name="scan_button">Novo escaneo</string>
-    <string name="scan_in_progress">Novo escaneo</string>
+    <string name="scan_in_progress">Escaneo en curso</string>
     <string name="settings">Configuración</string>
     <string name="share">Compartir</string>
     <string name="share_document">Compartir documento</string>
